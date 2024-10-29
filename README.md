@@ -7,6 +7,7 @@ Creative Assignment - a website in which you introduce a classical author to a b
 - [Overview](#overview)
 - [About The Author](#about-the-author)
 - [Getting Started](#getting-started)
+- [Documents](#documents)
 
 
 ## Overview
@@ -18,3 +19,8 @@ This is a simple website used to introduce a Classical author to a broader audie
 Li bo
 
 ## Getting Started - Access to the website
+
+## Documents - About the documents
+
+1. index.html
+2. style.css
