@@ -8,7 +8,7 @@ Creative Assignment - a website in which you introduce a classical author to a b
 - [About The Author](#about-the-author)
 - [Getting Started](#getting-started)
 - [Documents](#documents)
-
+- [Citations](#citations)
 
 ## Overview
 This is a simple website used to introduce a Classical author to a broader audience. 
@@ -28,3 +28,5 @@ Li bo
 2. style.css
   This is the document that controls the entire style and design of the webpage, with text color and fronts defined.
 4. poem1.html, poem2.html, poem3.html
+
+## Citations
