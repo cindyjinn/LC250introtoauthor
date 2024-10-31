@@ -26,6 +26,13 @@ p {
     color: #333333;
 }
 
+f {
+    font-family: 'Calibri', sans-serif;
+    font-size: 1rem;
+    color: #fff;
+}
+
+
 footer {
     text-align: center;
     padding: 10px;
