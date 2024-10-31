@@ -26,4 +26,5 @@ Li bo
 
 1. index.html
 2. style.css
-3. poem1.html
+  This is the document that controls the entire style and design of the webpage, with text color and fronts defined.
+4. poem1.html, poem2.html, poem3.html
