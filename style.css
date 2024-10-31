@@ -27,7 +27,6 @@ p {
 }
 
 
-
 footer {
     text-align: center;
     padding: 10px;
@@ -141,10 +140,4 @@ header nav a:hover {
     text-decoration: underline;
 }
 
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #4b3b3b;
-    color: #ffffff;
-}
 
