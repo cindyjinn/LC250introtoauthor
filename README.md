@@ -28,11 +28,11 @@ In this project, I will introduce Du Fu briefly, from his early life to his lite
   
 ## Documents - About the documents
 
-1. index.html
+1. index.html  
    This is the general design of sections and "what to show to users" for the main page.
 3. style.css  
   This is the document that controls the entire style and design of the webpage, with text color and fronts defined.
-4. poem1.html, poem2.html, poem3.html
+4. poem1.html, poem2.html, poem3.html  
    All these html documents serve as a link from the main page to other pages introducing specific work.
 
 ## Citations
