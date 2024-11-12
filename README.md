@@ -42,4 +42,5 @@ In this project, I will introduce Du Fu briefly, from his early life and literar
 ## Citations
 https://en.wikipedia.org/wiki/Du_Fu  
 http://www.chinese-poems.com/du.html  
+http://tsoidug.org/Literary/Shi_Hao_Ofcr_Simp.pdf  
 
