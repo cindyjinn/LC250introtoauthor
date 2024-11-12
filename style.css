@@ -143,10 +143,12 @@ header nav a {
 
 #poem-content pre {
     color: #000;
+    font-family: 'Times New Roman', serif;
+    font-size: 1rem;
 }
 
 #more-info a {
-    color: #000;
+    color: #ae445a;
 }
 
 header nav a:hover {
