@@ -5,6 +5,7 @@ Creative Assignment - a website in which you introduce a classical author to a b
 ## Table of Contents
 
 - [Overview](#overview)
+- [Collaboration](#collaboration)
 - [About The Author](#about-the-author)
 - [Getting Started](#getting-started)
 - [Documents](#documents)
@@ -14,6 +15,9 @@ Creative Assignment - a website in which you introduce a classical author to a b
 This is a simple website used to introduce a Classical author to a broader audience. 
   - Created by Haixin Jin.
   - Served for ../extragrades/CreativeAssignment
+
+## Collaboration
+Collaborated with Xing, who worked on the Li Bai page.
 
 ## About the Author
 Du Fu 杜甫  
