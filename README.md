@@ -16,7 +16,8 @@ This is a simple website used to introduce a Classical author to a broader audie
   - Created by Haixin Jin.
   - Served for ../extragrades/CreativeAssignment
 
-The webpage has 4 sections in total. 1 for the main page (introduction), 3 for specific works included in the gallery.
+The webpage has 4 sections in total. 1 for the main page (introduction), 3 for specific works included in the gallery.  
+In the main repository (which you are looking at right now), under actions, all editions and changes done are visible. 
 
 ## Collaboration
 Collaborated with Xing, who worked on the Li Bai page.
