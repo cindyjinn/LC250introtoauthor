@@ -14,9 +14,8 @@ Creative Assignment - a website in which you introduce a classical author to a b
 ## Overview
 This is a simple website used to introduce a Classical author to a broader audience. 
   - Created by Haixin Jin.
-  - Served for ../extragrades/CreativeAssignment
 
-The webpage has 4 sections in total. 1 for the main page (introduction), 3 for specific works included in the gallery.  
+The webpage has 4 sections in total. 1 for the main page (introduction), a gallery section for specific works included.  
 In the main repository (which you are looking at right now), under actions, all editions and changes done are visible. 
 
 ## Collaboration
